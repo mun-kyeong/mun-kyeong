@@ -11,14 +11,12 @@
 
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mun-kyeong&show_icons=true&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mun-kyeong&show_icons=true&theme=tokyonight&hide_rank=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mun-kyeong&layout=compact&theme=tokyonight)
-
 
 
 ## 📫 Contact
 - Email: horse6953@naver.com
 - Blog: [https://mun-kyeong.github.io/](https://mun-kyeong.github.io/)
 
-<img width="597" height="417" alt="munkyeong" src="https://github.com/user-attachments/assets/4357714e-ae90-4d55-903f-1b492dde3afc" />
-
+<img width="597" height="417" alt="image" src="https://github.com/user-attachments/assets/95369601-f93c-4c2d-9755-1aba0da8e34a" />
