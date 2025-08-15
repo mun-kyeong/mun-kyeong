@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Munkyeong
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Relief&pause=1000&color=000000&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Munkyeong)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mun-kyeong&color=blue&style=flat)
 
@@ -13,6 +13,7 @@
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mun-kyeong&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mun-kyeong&layout=compact&theme=tokyonight)
+
 
 
 ## 📫 Contact
