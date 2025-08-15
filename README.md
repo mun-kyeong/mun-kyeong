@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Munkyeong
 
-<!--
-**mun-kyeong/mun-kyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubID&color=blue&style=flat)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- **Languages**: Python, JavaScript, C++
+- **Frameworks**: React, Django, Node.js
+- **Tools**: Git, Docker, AWS
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubID&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubID&layout=compact&theme=tokyonight)
+
+## 📫 Contact
+- Email: your@email.com
+- Blog: [yourblog.com](https://yourblog.com)
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubID&show_icons=true&theme=tokyonight)
+
+## 💻 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubID&layout=compact&theme=tokyonight)
+
+## 📈 Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubID&theme=react-dark)
+
+
+<img width="1194" height="834" alt="munkyeong" src="https://github.com/user-attachments/assets/4357714e-ae90-4d55-903f-1b492dde3afc" />
+
