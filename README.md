@@ -4,25 +4,20 @@
 
 
 ## 🚀 Skills
-- **Languages**: Python, JavaScript, C++
-- **Frameworks**: React, Django, Node.js
-- **Tools**: Git, Docker, AWS
+- **Languages**: HTML5, CSS3, JavaScript, TypeScript, C++
+- **Frameworks**: React, Next.js
+- **Styling**: Tailwind CSS, Styled-Components, SCSS
+- **Design Tools**: Figma, 
+
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mun-kyeong&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mun-kyeong&layout=compact&theme=tokyonight)
 
+
 ## 📫 Contact
-- Email: your@email.com
-- Blog: [yourblog.com](https://yourblog.com)
+- Email: horse6953@naver.com
+- Blog: [https://mun-kyeong.github.io/](https://mun-kyeong.github.io/)
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mun-kyeong&show_icons=true&theme=tokyonight)
-
-## 💻 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mun-kyeong&layout=compact&theme=tokyonight)
-
-
-
-<img width="1194px" height="834px" alt="munkyeong" src="https://github.com/user-attachments/assets/4357714e-ae90-4d55-903f-1b492dde3afc" />
+<img width="597" height="417" alt="munkyeong" src="https://github.com/user-attachments/assets/4357714e-ae90-4d55-903f-1b492dde3afc" />
 
